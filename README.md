@@ -67,6 +67,13 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <footer>
 
+# <h1>This is my h1 header line
+# <h2>This is my h2 header line
+# <h3>This is my h3 header line
+# <h4>This is my h4 header line
+# <h5>This is my h5 header line
+# <h6>This is my h6 header line
+
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
